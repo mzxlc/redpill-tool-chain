@@ -1,4 +1,4 @@
-name: 构建
+name: ss
 
 on:
   workflow_dispatch:
